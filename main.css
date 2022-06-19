@@ -1,0 +1,9 @@
+.newQuestion {
+  display: block;
+  width: 10%;
+}
+
+.answer,
+.question {
+  display: flex;
+}
